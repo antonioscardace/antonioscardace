@@ -1,9 +1,9 @@
-<h1 align="center"> Hi there 👋, it's great to have you here!<br/> </h1> 
+<h1 align="center">Hi there 👋, it's great to have you here!<br/> </h1> 
 
 Few info about me: 
-* Computer Science Student at University of Catania (IT) 🎓. 
+* Computer Science Student at University of Catania (IT) 📚🎓. 
 * My main interestes are: Algorithms and Data Structures, Computer Networks, and Web Development. 
-* I’m currently working on some String Matching publications. 🔭
+* I’m currently working on some String Matching publications. ♻️
 
 
 # Connect with me #
