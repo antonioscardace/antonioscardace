@@ -3,7 +3,6 @@
 Few info about me: 
 * Computer Science Student at University of Catania (IT) 📚🎓. 
 * My main interestes are: Algorithms and Data Structures, Computer Networks, Web Development, and NLP. 
-* I’m currently working on some String Matching publications. ♻️
 
 
 # Connect with me #
