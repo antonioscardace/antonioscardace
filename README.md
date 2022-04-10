@@ -7,3 +7,4 @@ Few info about me:
 
 # Connect with me #
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-scardace/)
+[![LeetCode](https://leetcode.com/ElephanZ/)
