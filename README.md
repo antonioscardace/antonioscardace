@@ -11,4 +11,4 @@ Few info about me:
 [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/ElephanZ/)
 
 ----
-![](https://api.visitorbadge.io/api/VisitorHit?user=ElephanZ&repo=ElephanZ&countColor=%da4c3c)
+![](https://api.visitorbadge.io/api/VisitorHit?user=ElephanZ&repo=ElephanZ&countColor=%237B1E7A)
