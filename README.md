@@ -13,7 +13,7 @@ Few info about me:
     <a href="https://www.linkedin.com/in/antonio-scardace/" target="__blank"><img alt="LinkedIn"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://leetcode.com/ElephanZ/" target="__blank"><img alt="LeetCode"
-            src="https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white" /></a>
+            src="https://img.shields.io/badge/-LeetCode-ff8c00?style=for-the-badge&labelColor=ff8c00&logo=LeetCode&logoColor=white" /></a>
     <a href="mailto:antonio.scardace03@gmail.com" target="__blank"><img alt="Email me!"
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://t.me/gustavo_delpane" target="__blank"><img alt="Telegram"
