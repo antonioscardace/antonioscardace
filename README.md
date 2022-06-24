@@ -3,7 +3,7 @@
 Few info about me: 
 * Computer Science Student at University of Catania (IT) 📚🎓. 
 * My main interestes are: Algorithms and Data Structures, Security, and NLP. 
-* Passionate about Movies, Politics, Story, and Food.
+* Passionate about Movies and Politics.
 
 
 # Connect with me #
