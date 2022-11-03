@@ -2,7 +2,7 @@
 
 Few info about me: 
 * Computer Science Student at University of Catania (IT) 📚🎓. 
-* My main interestes are: Algorithms and Data Structures, Software Engineering. 
+* My main interestes are: Algorithms and Data Structures, Software Engineering, Data Analysis. 
 * Passionate about Movies and Politics.
 
 
