@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, it's great to have you here!<br/> </h1> 
 
 Few info about me: 
-* Bachelor's Degree in Computer Science at University of Catania. 110 with Honours. Candidate to Archimede Prize.
+* Bachelor's Degree in Computer Science at University of Catania. 110 with Honours / 110. Candidate to Archimede Prize.
 * Master Computer Science Student at University of Catania (IT) 📚🎓. 
 * My main interestes are: Algorithms and Data Structures, Software Engineering, Data Analysis. 
 * Passionate about Movies and Politics.
