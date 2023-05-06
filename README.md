@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, it's great to have you here!<br/> </h1> 
 
 Few info about me: 
-* B.Sc. in Computer Science at University of Catania. 110 with Honours / 110. Nominated for Archimede Prize.
-* Master Computer Science Student at University of Catania 📚🎓. 
+* B.Sc. in Computer Science at the University of Catania. 110 with Honours / 110. Nominated for Archimede Prize.
+* M.Sc. Student in Computer Science at the University of Catania 📚🎓. 
 * My main interestes are: Algorithms, Data Structures, Software Engineering, Data Engineering. 
 * Passionate about Movies and Politics.
 
