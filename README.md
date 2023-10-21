@@ -3,7 +3,7 @@
 Few info about me: 
 * B.Sc. in Computer Science at the University of Catania. 110 with Honours / 110. Nominated for the "Archimede" Prize.
 * M.Sc. Student in Computer Science at the University of Catania 📚🎓. 
-* My main interests are: Algorithms, Data Structures, Software Engineering, and Data Engineering. 
+* My main interests are Algorithms, Data Structures, Software Engineering, Software Architecture, and Data Engineering. 
 * Passionate about Movies and Politics.
 
 
