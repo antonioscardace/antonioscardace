@@ -17,6 +17,6 @@ Few info about me:
             src="https://img.shields.io/badge/-LeetCode-ff8c00?style=for-the-badge&labelColor=ff8c00&logo=LeetCode&logoColor=white" /></a>
     <a href="mailto:scardace.antonio@gmail.com" target="__blank"><img alt="Email me!"
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://t.me/gustavo_delpane" target="__blank"><img alt="Telegram"
+    <a href="https://t.me/antonioscardace" target="__blank"><img alt="Telegram"
             src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
