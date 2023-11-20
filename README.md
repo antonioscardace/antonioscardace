@@ -3,11 +3,12 @@
 Few info about me: 
 * B.Sc. in Computer Science at the University of Catania. 110 with Honours / 110. Nominated for the "Archimede" Prize.
 * M.Sc. Student in Computer Science at the University of Catania 📚🎓. 
-* My main interests are Algorithms, Data Structures, Software Engineering, Software Architecture, and Data Engineering. 
+* My main interests are Algorithms, Data Structures, Software Engineering, and Data Engineering. 
 * Passionate about Movies and Politics.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioscardace&layout=compact)
 
-# Connect with me #
+# Connect with me
 <p align="center">
     <a href="https://antonioscardace.altervista.org/" target="__blank"><img alt="Website" title="Visit my Website"
             src="https://img.shields.io/badge/-Website-success?style=for-the-badge&logo=HomeAdvisor&logoColor=white" /></a>
