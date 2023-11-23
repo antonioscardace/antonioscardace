@@ -6,8 +6,6 @@ Few info about me:
 * My main interests are Algorithms, Data Structures, Software Engineering, and Data Engineering. 
 * Passionate about Movies and Politics.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioscardace&layout=compact)
-
 # Connect with me
 <p align="center">
     <a href="https://antonioscardace.altervista.org/" target="__blank"><img alt="Website" title="Visit my Website"
