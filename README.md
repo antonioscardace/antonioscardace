@@ -6,7 +6,7 @@ Few info about me:
 * My main interests are Algorithms, Data Structures, Software Engineering, and Data Engineering. 
 * Passionate about Movies and Politics.
 
-# Connect with me
+<h1 align="center">Connect with me<br/> </h1> 
 <p align="center">
     <a href="https://antonioscardace.altervista.org/" target="__blank"><img alt="Website" title="Visit my Website"
             src="https://img.shields.io/badge/-Website-success?style=for-the-badge&logo=HomeAdvisor&logoColor=white" /></a>
