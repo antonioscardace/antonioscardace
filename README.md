@@ -8,7 +8,7 @@ Few info about me:
 
 <h1 align="center">Connect with me<br/> </h1> 
 <p align="center">
-    <a href="https://antonioscardace.altervista.org/" target="__blank"><img alt="Website" title="Visit my Website"
+    <a href="https://antonioscardace.github.io/" target="__blank"><img alt="Website" title="Visit my Website"
             src="https://img.shields.io/badge/-Website-success?style=for-the-badge&logo=HomeAdvisor&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/antonio-scardace/" target="__blank"><img alt="LinkedIn"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
