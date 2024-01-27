@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, it's great to have you here!<br/> </h1> 
+<h1 align="center">Hi there 👋🏼, it's great to have you here!<br/> </h1> 
 
 Few info about me: 
 * B.Sc. in Computer Science at the University of Catania. 110 with Honours / 110. Nominated for the "Archimede" Prize.
