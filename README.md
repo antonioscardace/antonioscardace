@@ -3,7 +3,7 @@
 A few info about me: 
 * B.Sc. in Computer Science at the University of Catania. 110 with Honours / 110. Nominated for a Merit Prize.
 * M.Sc. Student in Computer Science at the University of Catania 📚🎓. 
-* Main interests: Algorithms, Data Structures, Software Engineering, Data Engineering, Quantum Computing. 
+* Main interests: Algorithms, Data Structures, Software Engineering, Data Engineering, and Quantum Computing. 
 * Passionate about Movies and Politics.
 
 <h1 align="center">Connect with me<br/> </h1> 
