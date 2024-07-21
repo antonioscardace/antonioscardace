@@ -4,7 +4,8 @@ Here are a few info about me:
 * B.Sc. in Computer Science at the University of Catania with 110/110 and Honors. Nominated for a Merit Prize
 * M.Sc. Student in Computer Science at the University of Catania
 * Scientific and Technical Committee Member for ITACPC (Italian ICPC) since 2023
-* Main interests: Algorithms & Data Structures, Software Engineering, Data Engineering, and Quantum Computing
+* Main interests: Medical Imaging, Software Engineering, Data Engineering, and Quantum Computing
+* Imagine all the people sharing all the world...
 
 <h1 align="center">Connect with me<br/> </h1> 
 <p align="center">
