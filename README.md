@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋🏼, it's great to have you here!<br/> </h1> 
 
 Here are a few info about me: 
-* B.Sc. in Computer Science from the University of Catania, 110/110 cum laude. Nominated for a Merit Award 🎓
-* M.Sc. in Computer Science Student at the University of Catania 📚
-* Member of the Scientific and Technical Committee for ITACPC (Italian ICPC) since 2023 👨🏻‍💻
-* Main interests: Medical Imaging, Software Engineering, Quantum Computing 🧪
-* Imagine all the people sharing all the world... ✨
+* B.Sc. in Computer Science from the University of Catania, 110/110 cum laude. Nominated for a Merit Award
+* M.Sc. in Computer Science Student at the University of Catania
+* Member of the Scientific and Technical Committee for ITACPC (Italian ICPC) since 2023
+* Main interests: Medical Imaging, Software Engineering, Quantum Computing
+* Imagine all the people sharing all the world...
 
 <h1 align="center">Connect with me<br/> </h1> 
 <p align="center">
