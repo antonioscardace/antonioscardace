@@ -9,6 +9,6 @@
 
 ### 👨🏻‍💻 About Me
 * 💊 PhD Student in Computer Science at the University of Catania, focusing on Medical AI
-* 🎓 M.Sc. in Computer Science from the University of Catania, 110/110 cum Laude. Nominated for a Merit Award
-* 🎓 B.Sc. in Computer Science from the University of Catania, 110/110 cum Laude. Nominated for a Merit Award
+* 🎓 MSc in Computer Science from the University of Catania, 110/110 cum Laude. Nominated for a Merit Award
+* 🎓 BSc in Computer Science from the University of Catania, 110/110 cum Laude. Nominated for a Merit Award
 * 👔 Member of the Scientific and Technical Committee of ITACPC (Italian ICPC) since 2023
